@@ -46,9 +46,9 @@
 </ol>
 <div class="highlight highlight-source-shell"><pre>  $ git clone https://github.com/patrickjuann/proffy.git</pre></div>
 <ol start="2">
-<li>Executando a Aplicação:</li>
-</ol>
-<div class="highlight highlight-source-shell"><pre>  <span class="pl-c"><span class="pl-c">#</span> API</span>
+  <li>Executando a Aplicação:</li>
+  </ol>
+  <div class="highlight highlight-source-shell"><pre>  <span class="pl-c"><span class="pl-c">#</span> API</span>
   $ <span class="pl-c1">cd</span> server
   <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
   $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
@@ -57,7 +57,7 @@
 
   <span class="pl-c"><span class="pl-c">#</span> Inicie a API</span>
   $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span>
-
+  <br>
   <span class="pl-c"><span class="pl-c">#</span> Aplicação web</span>
   $ <span class="pl-c1">cd</span> web
   <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
