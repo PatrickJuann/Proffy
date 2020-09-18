@@ -46,18 +46,27 @@
 </ol>
 <div class="highlight highlight-source-shell"><pre>  $ git clone https://github.com/patrickjuann/proffy.git</pre></div>
 <ol start="2">
-  <li>Executando a Aplicação:</li>
-  </ol>
-  <div class="highlight highlight-source-shell"><pre>  <span class="pl-c"><span class="pl-c">#</span> API</span>
+  
+</ul>
+</li>
+</ul>
+<ol>
+<li>Faça um clone do repositório:</li>
+</ol>
+<div class="highlight highlight-source-shell"><pre>  $ git clone https://github.com/HigorSnt/proffy.git</pre></div>
+<ol start="2">
+<li>Executando a Aplicação:</li>
+</ol>
+<div class="highlight highlight-source-shell"><pre>  <span class="pl-c"><span class="pl-c">#</span> API</span>
   $ <span class="pl-c1">cd</span> server
   <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
   $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
   <span class="pl-c"><span class="pl-c">#</span> Configurando o banco de dados e criando as tabelas.</span>
   $ yarn knex:migrate <span class="pl-c"><span class="pl-c">#</span> ou npm run knex:migrate</span>
-  <br>
+
   <span class="pl-c"><span class="pl-c">#</span> Inicie a API</span>
   $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span>
-  
+
   <span class="pl-c"><span class="pl-c">#</span> Aplicação web</span>
   $ <span class="pl-c1">cd</span> web
   <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
@@ -71,29 +80,10 @@
   $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
   <span class="pl-c"><span class="pl-c">#</span> Inicie a aplicação mobile</span>
   $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span></pre></div>
-
-
-
-<pre>  <span class="pl-c"><span class="pl-c">#</span> API</span>
-  $ <span class="pl-c1">cd</span> server
-  <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
-  $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
-  <span class="pl-c"><span class="pl-c">#</span> Configurando o banco de dados e criando as tabelas.</span>
-  $ yarn knex:migrate <span class="pl-c"><span class="pl-c">#</span> ou npm run knex:migrate</span>
-
-  <span class="pl-c"><span class="pl-c">#</span> Inicie a API</span>
-  $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span>
-
-  <span class="pl-c"><span class="pl-c">#</span> Aplicação web</span>
-  $ <span class="pl-c1">cd</span> web
-  <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
-  $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
-  <span class="pl-c"><span class="pl-c">#</span> Inicie a aplicação web</span>
-  $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span>
-
-  <span class="pl-c"><span class="pl-c">#</span> Aplicação mobile</span>
-  $ <span class="pl-c1">cd</span> mobile
-  <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
-  $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
-  <span class="pl-c"><span class="pl-c">#</span> Inicie a aplicação mobile</span>
-  $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span></pre>
+<h2><a id="user-content-memo-licença" class="anchor" aria-hidden="true" href="#memo-licença"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Licença</h2>
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="/HigorSnt/proffy/blob/master/LICENSE.md">LICENSE</a> para mais detalhes.</p>
+<hr>
+<p><sup>Projeto desenvolvido com a tutoria de <a href="https://github.com/diego3g">Diego Fernandes</a>, da <a href="/HigorSnt/proffy/blob/master/rocketseat.com.br">Rocketseat</a>.</sup></p>
+</article>
+      </div>
+  </div>
