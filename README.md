@@ -44,7 +44,7 @@
 <ol>
 <li>Faça um clone do repositório:</li>
 </ol>
-<div class="highlight highlight-source-shell"><pre>  $ git clone https://github.com/patrickjuan/proffy.git</pre></div>
+<div class="highlight highlight-source-shell"><pre>  $ git clone https://github.com/patrickjuann/proffy.git</pre></div>
 <ol start="2">
 <li>Executando a Aplicação:</li>
 </ol>
