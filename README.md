@@ -54,10 +54,10 @@
   $ yarn <span class="pl-c"><span class="pl-c">#</span> ou npm install</span>
   <span class="pl-c"><span class="pl-c">#</span> Configurando o banco de dados e criando as tabelas.</span>
   $ yarn knex:migrate <span class="pl-c"><span class="pl-c">#</span> ou npm run knex:migrate</span>
-
+  <br>
   <span class="pl-c"><span class="pl-c">#</span> Inicie a API</span>
   $ yarn start <span class="pl-c"><span class="pl-c">#</span> ou npm start</span>
-  <br>
+  
   <span class="pl-c"><span class="pl-c">#</span> Aplicação web</span>
   $ <span class="pl-c1">cd</span> web
   <span class="pl-c"><span class="pl-c">#</span> Instalando as dependências do projeto.</span>
